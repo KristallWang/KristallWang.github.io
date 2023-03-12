@@ -5,3 +5,6 @@ show_excerpts: true
 google_analytics: UA-NNNNNNNN-N
 minima:
   skin: dark
+header_pages:
+  - about.md
+  - portfolio.md
