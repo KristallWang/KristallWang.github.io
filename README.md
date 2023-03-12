@@ -1,1 +1,1 @@
-# Kristall-Wang.github.io
+# KristallWang.github.io
