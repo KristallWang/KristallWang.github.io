@@ -12,3 +12,13 @@ minima:
 header_pages:
   - about.md
   - portfolio.md
+
+
+
+# http://haixing-hu.github.io/programming/2013/09/20/how-to-use-mathjax-in-jekyll-generated-github-pages/
+# https://math.stackexchange.com/editing-help
+# https://github.com/mathjax/MathJax
+# https://www.mathjax.org/
+# https://stackoverflow.com/questions/26275645/how-to-support-latex-in-github-pages/72383929#72383929
+# https://stackoverflow.com/questions/26275645/how-to-support-latex-in-github-pages
+# https://kramdown.gettalong.org/converter/html.html#math-support
