@@ -1,4 +1,8 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+# theme: jekyll-theme-minimal
 title: K酱的GitHub页面主页
 description: 欲言又止，不知所措
 show_excerpts: true
