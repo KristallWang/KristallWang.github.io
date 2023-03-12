@@ -1,6 +1,6 @@
 算是一些…收藏？
 
-#HomeAssistant智能家居
+# HomeAssistant智能家居
 
 
 ## 教程
