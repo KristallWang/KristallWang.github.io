@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: K酱的GitHub页面主页
 description: 欲言又止，不知所措
+show_excerpts: true
+google_analytics: UA-NNNNNNNN-N
+minima:
+  skin: dark
