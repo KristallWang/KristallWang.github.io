@@ -1,4 +1,5 @@
-# ¼¤¹âÇĞ¸î»ú¼°Åä¼ş¼°Ïà¹ØÖªÊ¶Óë×¨Àû
+æ¿€å…‰åˆ‡å‰²æœºåŠé…ä»¶åŠç›¸å…³çŸ¥è¯†ä¸ä¸“åˆ©
+
 #LaserEngraving
 #Laser_Engraving 
 
@@ -22,7 +23,7 @@ https://patents.google.com/patent/CN203193111U/zh
 https://endurancelasers.com/development-of-a-co2-laser-module-with-fiber/
 https://omtechlaser.com/collections/machines/products/40w-co2-laser-engraver-cutter-usb-032b-us
 
-## Çı¶¯°å¼°Ïà¹Ø£º
+## é©±åŠ¨æ¿åŠç›¸å…³ï¼š
 
 https://github.com/makerbase-mks/MKS-DLC32
 
@@ -30,7 +31,7 @@ https://github.com/makerbase-mks
 
 https://www.atomstack.net/collections/accessories/products/atomstack-driver-board-replacement-for-x20-a20-s20-pro-m100-laser-module
 
-## ¼¤¹âÍ·£º
+## æ¿€å…‰å¤´ï¼š
 
 https://www.atomstack.com/collections/laser-module/products/atomstack-r30-infrared-laser-module-fiber-laser-replacement-engraving-head-for-engraving-metal
 
@@ -53,7 +54,7 @@ https://www.htpow.net/atomstack-m40-40w-laser-module-for-laser-engraver
 https://lasertree.com/products/80w-laser-module-450nm-blue-laser-head-for-laser-cutting-machine-diy-laser-engraving-wood-working-tools
 
 
-## ÆäËû£º
+## å…¶ä»–ï¼š
 
 https://www.atomstack.com/collections/protective-box/products/atomstack-b1-enclosure-safe-dustproof-cover-case-for-laser-engraving-cutting-machine
 
