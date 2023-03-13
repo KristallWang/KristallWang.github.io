@@ -14,3 +14,5 @@ https://t.me/+Ca4dMdDcjVUwYmI1
 [自卫用的武器配件啥的](/2023/03/12/Self-Defense.md)
 <br>
 [激光切割机啥的](2023/03/12/LaserEngraving.md)
+<br>
+[发邮件的小技巧啥的](/2023/03/12/E-mail-Skills.md)
