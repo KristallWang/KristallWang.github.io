@@ -18,4 +18,4 @@ https://t.me/+Ca4dMdDcjVUwYmI1
 [发邮件的小技巧啥的](/2023/03/12/E-mail-Skills.md)
 
 #### 25日
-[转运与海淘的信息汇总](/2023/03/35/ZhuanyunHaitao.md)
+[转运与海淘的信息汇总](/2023/03/25/ZhuanyunHaitao.md)
